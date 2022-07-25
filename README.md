@@ -1,16 +1,7 @@
-# magic_eight_ball
+# Magic 8 Ball
 
-A new Flutter project.
+A simple fortune teller flutter app.
 
-## Getting Started
+## App Overview
+![magic_eight_ball_readme](https://user-images.githubusercontent.com/81986017/180701108-7f893a57-ad04-4476-8d1a-bd2c0b47a32a.svg)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
